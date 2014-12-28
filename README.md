@@ -33,3 +33,6 @@ To use this code you need to install some packages and libraries which will enab
 		 ./a.out
 
 1.  Enter the number of process and view how these CPU scheduling algorithm works. Everything will be genrated ran		       domly.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tapasweni-pathak/visualization-of-cpu-scheduling-algorithms/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
