@@ -23,7 +23,7 @@ To use this code you need to install some packages and libraries which will enab
 
 		 sudo make install
 
-		 sudo cp /usr/local/lib/lingraph.* /usr/lib
+		 sudo cp /usr/local/lib/libgraph.* /usr/lib
 
 ##Compile and Run
 0.  Compile and run the source code files.
