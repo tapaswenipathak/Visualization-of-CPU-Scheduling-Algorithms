@@ -1,0 +1,7 @@
+#!/bin/bash
+
+export PATH=`git rev-parse --git-dir`/../tools/:$PATH
+
+git clang-format --extensions c,cpp,hpp --style file -v
+
+exec < /dev/tty
