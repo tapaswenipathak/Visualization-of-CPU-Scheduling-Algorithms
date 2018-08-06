@@ -24,32 +24,32 @@ To use this code you need to install some packages and libraries which will enab
 
 2.  Download [libgraph](http://download.savannah.gnu.org/releases/libgraph/libgraph-1.0.2.tar.gz).
 
-     ```bash
+    ```bash
 
-		 tar -xvzf libgraph-1.0.2
+    tar -xvzf libgraph-1.0.2
 
-		 cd libgraph-1.0.2
+    cd libgraph-1.0.2
 
-		 ./configure
+    ./configure
 
-		 sudo make
+    sudo make
 
-		 sudo make install
+    sudo make install
 
-		 sudo cp /usr/local/lib/libgraph.* /usr/lib
+    sudo cp /usr/local/lib/libgraph.* /usr/lib
 
-		 ```
+     ```
 
 ## Compile and Run
 0.  Compile and run the source code files.
 
-		 ```bash
+    ```bash
 
-		 gcc generatepid.c struct.h graphics.c main.c -lgraph
+    gcc generatepid.c struct.h graphics.c main.c -lgraph
 
-		 ./a.out
+    ./a.out
 
-		 ```
+    ```
 
 1.  Enter the number of process and view how these CPU scheduling algorithm works. Everything will be genrated randomly.
 
