@@ -11,11 +11,9 @@ extern void generatepid(int a);
 extern void generateBT(int b);
 extern void generateAT(int c);
 extern void generatepriority(int c);
-int main()
-{
-	printf ("Enter the no. of processes: ");
-	scanf ("%d", &n);
-	generatepid (n);
-return 0;
+int main() {
+  printf("Enter the no. of processes: ");
+  scanf("%d", &n);
+  generatepid(n);
+  return 0;
 }
-
