@@ -1,8 +1,19 @@
 Visualization of CPU Scheduling Algorithms
 ======
 
-## Uses
-[graphics.h](http://www.programmingsimplified.com/c/graphics.h)
+## Code structure
+
+1. `struct.h`: This has structure of the process which has process ID, arrival time, burst time and struct object. Create struct object in this file if you need more process objects.
+
+2. `generatepid.c`: This generates and assigns process ids, arrival time, burst time.
+
+3. `main.c`: This file is used to let the user provide the number of processes which
+is later used in other files.
+
+4. `graphics.c`: This has basic implementation of visualization using C graphics library [graphics.h](http://www.programmingsimplified.com/c/graphics.h).
+To add implementation of any new CPU scheduling algorithm:
+    * Change the name of the algorithm
+    * Manipulate the sorting algorithm
 
 ## Instructions
 To use this code you need to install some packages and libraries which will enable you to compile **graphics.h** program in Linux.
@@ -40,6 +51,5 @@ To use this code you need to install some packages and libraries which will enab
 
 		 ```
 
-1.  Enter the number of process and view how these CPU scheduling algorithm works. Everything will be genrated ran		       domly.
-
+1.  Enter the number of process and view how these CPU scheduling algorithm works. Everything will be genrated randomly.
 
