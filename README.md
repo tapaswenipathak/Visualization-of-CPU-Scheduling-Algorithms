@@ -1,5 +1,13 @@
+![](https://img.shields.io/badge/-Visualization%20of%20CPU%20Scheduling%20Algorithms-blueviolet.svg)
+
 Visualization of CPU Scheduling Algorithms
 ======
+[![GitHub issues](https://img.shields.io/github/issues/tapaswenipathak/Visualization-of-CPU-Scheduling-Algorithms.svg)](https://github.com/tapaswenipathak/Visualization-of-CPU-Scheduling-Algorithms/issues)
+[![GitHub forks](https://img.shields.io/github/forks/tapaswenipathak/Visualization-of-CPU-Scheduling-Algorithms.svg)](https://github.com/tapaswenipathak/Visualization-of-CPU-Scheduling-Algorithms/network)
+[![GitHub stars](https://img.shields.io/github/stars/tapaswenipathak/Visualization-of-CPU-Scheduling-Algorithms.svg)](https://github.com/tapaswenipathak/Visualization-of-CPU-Scheduling-Algorithms/stargazers)
+[![GitHub license](https://img.shields.io/github/license/tapaswenipathak/Visualization-of-CPU-Scheduling-Algorithms.svg)](https://github.com/tapaswenipathak/Visualization-of-CPU-Scheduling-Algorithms/blob/master/License)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/tapaswenipathak/Visualization-of-CPU-Scheduling-Algorithms.svg?label=Visualization-of-CPU-Scheduling-Algorithms&style=social)](https://twitter.com/intent/tweet?text=Visualization%20of%20CPUScheduling%20Algorithm:&url=https%3A%2F%2Fgithub.com%2Ftapaswenipathak%2FVisualization-of-CPU-Scheduling-Algorithms)
+
 
 ## Code structure
 
